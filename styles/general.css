@@ -1,0 +1,33 @@
+
+  p{
+        margin-top: 0px;
+        font-family: roboto,arial;
+        cursor: pointer;
+    
+    }
+    .thumbnail{
+        width: 100%;
+        margin-bottom: 0px;
+        cursor: pointer;
+        border-width: 2px;
+        border-radius: 15px;
+    }
+    body{
+        margin: 0;
+        padding-top:80px;
+        padding-left:95px ;
+        padding-right: 28px;
+        background: rgb(248, 248, 248);
+    }
+
+    .video-time{
+        height: 8px;
+        margin-right: 4px;
+        padding-bottom: 30px;
+        padding-top: 0px;
+        border-radius: 200px;
+        
+    }
+    
+    
+    
